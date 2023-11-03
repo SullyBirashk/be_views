@@ -25,7 +25,6 @@ gem 'sprockets-rails'
 
 gem 'sass-rails'
 
-gem 'uglifier'
 
 
 # Use the Puma web server [https://github.com/puma/puma]
