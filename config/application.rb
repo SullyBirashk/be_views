@@ -13,6 +13,7 @@ module MyApiProject
 
     config.active_record.schema_format = :sql
 
+    config.assets.enabled = true
 
     # Configuration for the application, engines, and railties goes here.
     #
